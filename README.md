@@ -21,7 +21,7 @@ Adoro desafios e estou explorando automação de testes com Playwright e Cypress
 - **Testes de API:** Postman, Swagger  
 - **Bancos de Dados:** SQL Server, PostgreSQL, Oracle  
 - **Performance / Carga:** JMeter  
-- **Gestão de Testes:** Jira, X-Ray, Azure DevOps  
+- **Gestão de Testes:** Jira, Azure DevOps  
 
 
 
